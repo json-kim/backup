@@ -1,0 +1,16 @@
+{
+    "people": [
+        {
+            "id": "7bbbbb",
+            "firstName": "Phoebe",
+            "lastName": "Buffay",
+            "occupation": "Massage Therapist"
+        },
+        {
+            "id": "3babbd",
+            "firstName": "Rachel",
+            "lastName": "Green",
+            "occupation": "Coffe Waitress"
+        }
+    ]
+}
